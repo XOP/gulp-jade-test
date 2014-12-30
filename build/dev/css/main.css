@@ -1,0 +1,11 @@
+/* line 3, E:/DEVELOPMENT/Projects/gulp-jade/src/sass/layout.scss */
+body {
+  padding: 40px;
+  color: #ccc;
+  background: #444;
+  font: 16px/1.4 normal Tahoma, sans-serif; }
+
+/* line 10, E:/DEVELOPMENT/Projects/gulp-jade/src/sass/layout.scss */
+h1 {
+  border-bottom: 2px solid #888; }
+

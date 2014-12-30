@@ -1,0 +1,12 @@
+@import 'vars';
+
+body {
+	padding: $g2x;
+	color: $c-main;
+	background: $bg-main;
+	font: 16px/1.4 normal Tahoma, sans-serif;
+	}
+
+h1 {
+	border-bottom: 2px solid $c-aux;
+	}
